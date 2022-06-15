@@ -5,5 +5,5 @@ The objects is to be a pro with Javascripts. It started from the basics to a pro
 
 ## Projects Directory.
 
--- [ES6 Basics](https://github.com/emmaudeji/alx-frontend-javascript/ES6 Basics)
+- (ES6 Basics)[https://github.com/emmaudeji/alx-frontend-javascript/ES6 Basics]
 -
