@@ -19,7 +19,6 @@ Resources
 -   [Await](https://alx-intranet.hbtn.io/rltoken/SALOZ-GAD5GVCTnK1iTCdA "Await")
 -   [Async](https://alx-intranet.hbtn.io/rltoken/QZMWLFR29PO2bVOS4_8j5Q "Async")
 -   [Throw / Try](https://alx-intranet.hbtn.io/rltoken/TXqH5zA1NSVCwCoyr1cNxg "Throw / Try")
--   # Resources
 -   [meta-programming](https://www.freecodecamp.org/news/what-is-metaprogramming-in-javascript-in-english-please/#:~:text=Metaprogramming%20is%20a%20programming%20technique,even%20modify%20itself%20while%20running.)
 
 
