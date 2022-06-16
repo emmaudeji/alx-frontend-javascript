@@ -17,6 +17,7 @@ Resources
 -   [Classes](https://alx-intranet.hbtn.io/rltoken/IDo2mlwrId8srxeBNEjftw "Classes")
 -   [Metaprogramming](https://alx-intranet.hbtn.io/rltoken/CQS69TtR8objrRABVPVNZA "Metaprogramming")
 -   [Metaprogramming-Eiyk Vullum](https://youtu.be/_5X2aB_mNp4)
+-   [Getters and Setters-Mosh](https://youtu.be/bl98dm7vJt0)
 
 Requirements
 ------------
